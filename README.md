@@ -1,5 +1,5 @@
 # flask-microservice
-CS 361 Stock Market Price Microservice
+##CS 361 Stock Market Price Microservice
 
 Base URL: maxpreh.pythonanywhere.com
 
@@ -15,7 +15,7 @@ Data will be sent from the server in JSON format
 
 # GET /symbol
 
-'''Status: 200
+
 {
     "market_price": int
-}'''
+}
