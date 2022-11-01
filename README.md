@@ -7,11 +7,11 @@ This random username microservice is deployed to Python Anywhere! You will need 
 
 # Recieving Data
 
-maxpreh.pythonanywhere.com/<symbol>
+maxpreh.pythonanywhere.com/symbol
 
 Data will be sent from the server in JSON format
 
-# GET /<symbol>
+# GET /symbol
 
 '''Status: 200
 {
