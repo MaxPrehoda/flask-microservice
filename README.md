@@ -3,7 +3,7 @@ CS 361 Stock Market Price Microservice
 
 Base URL: maxpreh.pythonanywhere.com
 
-This random username microservice is deployed to Python Anywhere! You will need to make HTTP requests to receive data from the microservice.
+This microservice is deployed to Python Anywhere! You will need to make HTTP requests to receive data from the microservice. The main functionality is using network results to scrape market data from Yahoo Finance.
 
 # Recieving Data
 
